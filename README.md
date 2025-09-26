@@ -11,7 +11,7 @@
 - **Contacto**: 
   - Email: g.angeles112004@gmail.com
   - LinkedIn: www.linkedin.com/in/angeles-belen-garcía-7b4390226
-  - GitHub: github.com/Angeles-G
+  - GitHub: www.github.com/Angeles-G
 - **Objetivo**: Busco oportunidades como analista de datos junior para aplicar mis habilidades en proyectos reales.
 
 ## Proyectos Destacados
