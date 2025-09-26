@@ -1,0 +1,64 @@
+/* Estilos personalizados para portafolio profesional */
+body {
+    background-color: #000000 !important;  /* Fondo negro puro */
+    color: #ffffff !important;  /* Texto blanco para contraste */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  /* Fuente moderna */
+    line-height: 1.6;
+}
+
+.main-content {
+    background-color: #000000 !important;  /* Asegura que el contenido sea negro */
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 10px;  /* Bordes redondeados para pro */
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);  /* Sombra sutil */
+}
+
+h1, h2, h3 {
+    color: #00bfff !important;  /* Títulos en azul cian para acento data-science */
+    border-bottom: 2px solid #333;  /* Línea sutil debajo de títulos */
+    padding-bottom: 10px;
+}
+
+a {
+    color: #00bfff !important;  /* Enlaces en azul */
+    text-decoration: none;
+    border-bottom: 1px dotted #00bfff;  /* Efecto hover sutil */
+}
+
+a:hover {
+    color: #ffffff !important;
+    background-color: #333;  /* Fondo gris al hover */
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+ul, ol {
+    background-color: #111;  /* Listas con fondo gris oscuro */
+    padding: 15px;
+    border-left: 4px solid #00bfff;
+    border-radius: 5px;
+}
+
+img {
+    border: 2px solid #333;  /* Bordes para imágenes de proyectos */
+    border-radius: 8px;
+    max-width: 100%;
+}
+
+/* Para móviles (responsive) */
+@media (max-width: 768px) {
+    .main-content {
+        padding: 10px;
+    }
+}
+
+/* Footer simple */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #111;
+    color: #888;
+}
