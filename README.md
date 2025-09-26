@@ -1,4 +1,4 @@
-Analisis de Datos (Junior)
+# Analisis de Datos (Junior)
 
 ¡Hola! Soy Angeles Belen Garcia, técnica universitaria en Programación y estudiante de Licenciatura en Ciencias de Datos. Con experiencia en programación, estoy enfocándome en análisis de datos, visualizaciones y machine learning. Este portafolio muestra proyectos prácticos que he desarrollado para demostrar mis habilidades.
 
@@ -9,7 +9,7 @@ Analisis de Datos (Junior)
 - **Contacto**: 
   - Email: g.angeles112004@gmail.com
   - LinkedIn: www.linkedin.com/in/angeles-belen-garcía-7b4390226
-  - GitHub: [github.com/Angeles-G]
+  - GitHub: github.com/Angeles-G
 - **Objetivo**: Busco oportunidades como analista de datos junior para aplicar mis habilidades en proyectos reales.
 
 ## Proyectos Destacados
