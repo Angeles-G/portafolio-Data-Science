@@ -27,7 +27,7 @@ En esta sección, encontrarás tanto proyectos de M.L como de Analisis de datos 
 - **Insights clave**: Las variables climáticas seleccionadas (como temperatura, radiación solar y cobertura nubosa) demostraron tener una relación significativa con la ocurrencia de lluvia, lo que valida parcialmente nuestra hipótesis inicial.
 
 ## Cómo Navegar
-- Cada proyecto tiene un link a su respectivo colab, y aque en cada carpeta individual se encuentra el informe correspondiente a cada proyecto. 
+- Cada proyecto tiene un link a su respectivo colab, y su informe explicativo. 
 - Si tienes preguntas, ¡contáctame!
 
 ## Actualizaciones
