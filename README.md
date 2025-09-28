@@ -1,6 +1,6 @@
 
 <link rel="stylesheet" href="assets/css/style.css">
-# Analisis de Datos (Junior)
+## Analisis de Datos (Junior)
 
 ¡Hola! Soy Angeles Belen Garcia, técnica universitaria en Programación y estudiante de Licenciatura en Ciencias de Datos. Con experiencia en programación, estoy enfocándome en análisis de datos, visualizaciones y machine learning. Este portafolio muestra proyectos prácticos que he desarrollado para demostrar mis habilidades.
 
