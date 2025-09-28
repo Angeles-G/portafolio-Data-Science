@@ -23,7 +23,7 @@ En esta sección, encontrarás tanto proyectos de M.L como de Analisis de datos 
 - **Habilidades demostradas**: Limpieza de datos con Pandas, estadísticas descriptivas, gráficos con Seaborn, Sklearn, numpy, modelos y metricas con Keras.
 - **Herramientas**: Python, Google Colab
 - **Enlace al proyecto**: (https://colab.research.google.com/drive/1HxHqDxGmAZrPw9pnrU7F3OptV3lClbtO?usp=sharing)
-- **Enlace al informe**: 
+- **Enlace al informe**: https://github.com/Angeles-G/portafolio-Data-Science/blob/main/Informe%20-Prediccion%20de%20precipitaciones%20-%20Garc%C3%ADa%20Angeles%20Bel%C3%A9n%20(1)%20(1).pdf
 - **Insights clave**: Las variables climáticas seleccionadas (como temperatura, radiación solar y cobertura nubosa) demostraron tener una relación significativa con la ocurrencia de lluvia, lo que valida parcialmente nuestra hipótesis inicial.
 
 ## Cómo Navegar
