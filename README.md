@@ -6,8 +6,8 @@
 
 ## Sobre Mí
 - **Formación**: Técnica en Programación (90% aprobado) | Diplomatura en Inteligencia Artificial(100% aprobado, Universidad de Palermo) | Licenciatura en Ciencias de Datos (en curso, Universidad de Buenos Aires).
-- **Habilidades clave**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Jupyter Notebooks, Limpieza y análisis de datos, Visualizaciones interactivas.
-- **Herramientas favoritas**: GitHub para código, Google Colab para experimentos rápidos.
+- **Habilidades clave**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Limpieza y análisis de datos, Visualizaciones interactivas.
+- **Herramientas favoritas**: GitHub, Google Colab.
 - **Contacto**: 
   - Email: g.angeles112004@gmail.com
   - LinkedIn: www.linkedin.com/in/angeles-belen-garcía-7b4390226
@@ -31,7 +31,7 @@ En esta sección, encontrarás tanto proyectos de M.L como de Analisis de datos 
 - Si tienes preguntas, ¡contáctame!
 
 ## Actualizaciones
-- Última actualización: [26/09/2025]
+- Última actualización: [28/09/2025]
 
 ---
 © Angeles Belen Garcia 2025
